@@ -1,4 +1,5 @@
 ![](https://github.com/V33RU/OWASP-Seasides/blob/master/bleah.png)
+![](https://github.com/V33RU/OWASP-Seasides/blob/master/Capture.PNG)
 
 # OWASP-Seasides
 Session data
