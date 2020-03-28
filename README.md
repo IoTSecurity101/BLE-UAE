@@ -25,7 +25,7 @@ Or you can download from the same repository
 
 > Use dpkg -i nodejs_8.10.0_dfsg-2ubuntu0.4_amd64.deb
   and you may experienced errors installation 
-  > Just run sudo apt-get install --fix-broken
-  > #apt-get update
-  > #apt-get upgrade 
+  - > Just run sudo apt-get install --fix-broken
+  - > #apt-get update
+  - > #apt-get upgrade 
  You can run again installation script works fine`
