@@ -13,7 +13,7 @@ sudo sudo apt-get install bluetooth bluez libbluetooth-dev libudev-dev
 sudo sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install apktool
 
-wget http://archive.ubuntu.com/ubuntu/pool/universe/n/nodejs/nodejs_8.10.0~dfsg-2ubuntu0.4_amd64.deb
+wget https://github.com/V33RU/OWASPSeasides--BLE-UAE/blob/master/nodejs_8.10.0_dfsg-2ubuntu0.4_amd64.deb
 wget https://www.dropbox.com/s/p3vbboddyc52y5g/ble-exploits.zip?dl=0
 
 echo ____MiTM Tools____
