@@ -14,18 +14,8 @@ Session data
 
 
 ### Tools Installation Process
-`Already we written dependencies and Tools installation script in github repo But if you run the script directly nodejs will not install`
+`Already we written dependencies and Tools installation script & Just Download and run it in linux machine`
 
-https://github.com/V33RU/OWASPSeasides--BLE-UAE/blob/master/tools_installation.sh
+> Let me know if errors is taking while running script
 
-`It will create a folder and session owasp one more there the installation file will be downloaded already while you running the script 
-Or you can download from the same repository` 
-
- Blueooth Arsenal Tools : https://www.dropbox.com/s/p3vbboddyc52y5g/ble-exploits.zip?dl=0
-
-  - > Use dpkg -i nodejs_8.10.0_dfsg-2ubuntu0.4_amd64.deb
-  and you may experienced errors in installation 
-  - > Just run sudo apt-get install --fix-broken
-  - > #apt-get update
-  - > #apt-get upgrade 
- You can run again installation script works fine`
+### Guide For Pentesting BLE
