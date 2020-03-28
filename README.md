@@ -1,9 +1,3 @@
-![](https://github.com/V33RU/OWASP-Seasides/blob/master/bleah.png)
-![](https://github.com/V33RU/OWASP-Seasides/blob/master/Capture.PNG)
-
-# OWASP-Seasides -> BLE UAE(Understanding and Exploitation)
-Session data
-
 
 ### Requirements
 - [Debian](https://www.debian.org/) or [Ubuntu OS](https://ubuntu.com/download/desktop)
