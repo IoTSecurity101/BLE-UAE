@@ -19,3 +19,4 @@ Session data
 > Let me know if errors is taking while running script
 
 ### Guide For Pentesting BLE
+   #### - [Reconnaince](https://github.com/V33RU/OWASPSeasides-BLE-UAE/blob/master/Reconnaiance.md)
