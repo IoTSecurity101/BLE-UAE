@@ -16,11 +16,11 @@ Session data
 ### Tools Installation Process
 ` Already we written dependencies and Tools installation script in github repo 
 
-But if you run directly nodejs will not install 
+But if you run directly nodejs will not install`
 
 https://github.com/V33RU/OWASPSeasides--BLE-UAE/blob/master/tools_installation.sh
 
-It will create a folder and session owasp one more there the installation file will be downloaded already while you running the script 
+`It will create a folder and session owasp one more there the installation file will be downloaded already while you running the script 
 Or you can download from the same repository 
 
 Use dpkg -i nodejs_8.10.0_dfsg-2ubuntu0.4_amd64.deb
@@ -28,4 +28,4 @@ and you may experienced errors installation
 Just run sudo apt-get install --fix-broken
 #apt-get update
 #apt-get upgrade 
- You can run again installation script works fine `
+ You can run again installation script works fine`
