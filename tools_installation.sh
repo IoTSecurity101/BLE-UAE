@@ -1,6 +1,6 @@
-$sudo sudo apt-get update && sudo apt-get upgrade
 #! /bin/bash
 
+$sudo sudo apt-get update && sudo apt-get upgrade
 mkdir session-owasp
 cd session-owasp
 echo ******Dependencies******
@@ -13,8 +13,11 @@ sudo sudo apt-get install bluetooth bluez libbluetooth-dev libudev-dev
 sudo sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install apktool
 
-wget https://github.com/V33RU/OWASPSeasides--BLE-UAE/blob/master/nodejs_8.10.0_dfsg-2ubuntu0.4_amd64.deb
-wget https://www.dropbox.com/s/p3vbboddyc52y5g/ble-exploits.zip?dl=0
+wget https://github.com/V33RU/OWASPSeasides--BLE-UAE/raw/master/nodejs_8.10.0_dfsg-2ubuntu0.4_amd64.deb
+wget https://www.dropbox.com/s/p3vbboddyc52y5g/ble-exploits.zip
+
+sudo dpkg -i nodejs_8.10.0_dfsg-2ubuntu0.4_amd64.deb
+sudo apt-get install npm
 
 echo ____MiTM Tools____
 
