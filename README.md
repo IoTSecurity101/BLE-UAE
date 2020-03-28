@@ -14,9 +14,7 @@ Session data
 
 
 ### Tools Installation Process
-` Already we written dependencies and Tools installation script in github repo 
-
-But if you run directly nodejs will not install`
+`Already we written dependencies and Tools installation script in github repo But if you run the script directly nodejs will not install`
 
 https://github.com/V33RU/OWASPSeasides--BLE-UAE/blob/master/tools_installation.sh
 
