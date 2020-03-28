@@ -24,7 +24,7 @@ Or you can download from the same repository`
  Blueooth Arsenal Tools : https://www.dropbox.com/s/p3vbboddyc52y5g/ble-exploits.zip?dl=0
 
   - > Use dpkg -i nodejs_8.10.0_dfsg-2ubuntu0.4_amd64.deb
-  and you may experienced errors installation 
+  and you may experienced errors in installation 
   - > Just run sudo apt-get install --fix-broken
   - > #apt-get update
   - > #apt-get upgrade 
