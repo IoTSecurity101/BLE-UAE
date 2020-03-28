@@ -14,7 +14,7 @@ Session data
 
 
 ### Tools Installation Process
-`Already we written dependencies and Tools installation script in github repo 
+` Already we written dependencies and Tools installation script in github repo 
 
 But if you run directly nodejs will not install 
 
@@ -28,4 +28,4 @@ and you may experienced errors installation
 Just run sudo apt-get install --fix-broken
 #apt-get update
 #apt-get upgrade 
- You can run again installation script works fine`
+ You can run again installation script works fine `
