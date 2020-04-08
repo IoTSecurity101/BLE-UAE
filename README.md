@@ -18,4 +18,4 @@
 
 ### Guide For Pentesting BLE
    
-   - [Reconnaince](https://github.com/V33RU/OWASPSeasides-BLE-UAE/blob/master/Reconnaiance.md)
+   - [Reconnaissance](https://github.com/V33RU/OWASPSeasides-BLE-UAE/blob/master/Reconnaiance.md)
