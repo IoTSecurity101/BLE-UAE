@@ -12,7 +12,7 @@
 
 
 ### Tools Installation Process
-`Already we written dependencies and Tools installation script & Just Download and run it in linux machine`
+`[Already we written dependencies and Tools installation script & Just Download and run it in linux machine](https://github.com/V33RU/BLE-UAE/blob/master/tools_installation.sh)`
 
 > Let me know if errors is taking while running script
 
