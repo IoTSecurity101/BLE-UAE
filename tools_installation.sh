@@ -47,6 +47,6 @@ sudo npm install gattacker
 
 echo ----------BETTERCAP------------------
 sudo apt-get install build-essential ruby-dev libpcap-dev
-sudo apt-get update
-sudo apt-get install bettercap    
+sudo apt-get install build-essential libpcap-dev net-tools
+   
 
