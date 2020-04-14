@@ -27,6 +27,7 @@ wget https://www.dropbox.com/s/p3vbboddyc52y5g/ble-exploits.zip
 
 sudo dpkg -i nodejs_8.10.0_dfsg-2ubuntu0.4_amd64.deb
 sudo apt-get install npm
+sudo apt --fix-broken install
 
 echo ____MiTM Tools____
 
