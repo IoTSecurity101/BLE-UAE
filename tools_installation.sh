@@ -44,3 +44,9 @@ sudo npm install bleno
 echo gattacker
 echo -------------------------------
 sudo npm install gattacker
+
+echo ----------BETTERCAP------------------
+sudo apt-get install build-essential ruby-dev libpcap-dev
+sudo apt-get update
+sudo apt-get install bettercap    
+
