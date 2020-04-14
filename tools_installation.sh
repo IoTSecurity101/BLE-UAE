@@ -10,8 +10,8 @@ echo "______ _      _____       _   _  ___   _____
                                             "
 
 $sudo sudo apt-get update && sudo apt-get upgrade
-mkdir session-owasp
-cd session-owasp
+#mkdir session-owasp
+#cd session-owasp
 echo ******Dependencies******
 
 lsb_release -a
