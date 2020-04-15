@@ -23,13 +23,15 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
      #bluetoothctl 
      
       > help
+      
       ![](photos/bluetoothctl-help.PNG)
             
      >scan on 
             
      ![](photos/bluetoothctl-help-scan-on.PNG)
             
-      >scan off
+     >scan off
+     
      ![](photos/bluetoothctl-help-scan-on-off.PNG)
             
 3. 
