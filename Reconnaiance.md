@@ -1,7 +1,11 @@
-### Reconnaiance on bluetooth and bluetooth low energy
+### Reconnaiance on bluetooth and bluetooth low energy devices
 
-Tools Required for Recon BLE
+Connect a external adapter CSR4.0 Dongle if you are using virtualbox or Host Machine internal bluetooth works but if you have adapter more better
+![](csr.jpg)
 
+#### Recon with "bluetoothctl"
+
+it is preinstalled
 1. bluetoothctl
     
       #### bluetoothctl 
