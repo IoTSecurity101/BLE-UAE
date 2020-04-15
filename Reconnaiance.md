@@ -1,12 +1,12 @@
 ### Reconnaiance on bluetooth and bluetooth low energy devices
 
 Connect a external adapter CSR4.0 Dongle if you are using virtualbox or Host Machine internal bluetooth works but if you have adapter more better
-![](csr.jpg)
+    ![](csr.jpg)
 
 check with whether blueotooth adapter is working 
 
 "#hciconfig" - check adapter it is running or not 
-![](hciconfig.PNG)
+    ![](hciconfig.PNG)
 
 if the adapter is not up run the command " #hciconfig hcix up"
 
