@@ -1,7 +1,7 @@
 ### Reconnaiance on bluetooth and bluetooth low energy devices
 
 Connect a external adapter CSR4.0 Dongle if you are using virtualbox or Host Machine internal bluetooth works but if you have adapter more better
-    ![](photos/csr.jpg)
+    ![](photos/csr.PNG)
 
 check with whether blueotooth adapter is working 
 
