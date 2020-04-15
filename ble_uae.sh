@@ -18,7 +18,7 @@ lsb_release -a
         echo "Abort if it is not debian && ubuntu by ctrl+c"
 
 sudo apt-get install python3 && sudo apt-get install python3-pip && sudo pip3 install pwntools
-sudo sudo apt-get install bluetooth bluez libbluetooth-dev libudev-dev
+sudo sudo apt-get install bluetooth bluez libbluetooth-dev libudev-dev bluez-btsco bluez-dbg bluez-obexd bluez-tools bluez-cups bluez-hcidump bluez-tests
 sudo sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install apktool
 
