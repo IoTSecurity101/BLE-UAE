@@ -2,11 +2,13 @@
 
 Connect a external adapter CSR4.0 Dongle if you are using virtualbox or Host Machine internal bluetooth works but if you have adapter more better
    
+   
    ![](photos/csr.PNG)
+   
 
 check with whether blueotooth adapter is working 
 
-"#hciconfig" - check adapter it is running or not 
+"#hciconfig" - to check adapter it is connected and running or not 
    
    ![](photos/hciconfig.PNG)
 
