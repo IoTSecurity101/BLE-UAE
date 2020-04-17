@@ -20,20 +20,18 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
 
    bluetoothctl
     
-     #bluetoothctl 
-     > help
-     ![](photos/bluetoothctl-help.PNG)
+   #bluetoothctl 
+   [bluetooth]#help
+   ![](photos/bluetoothctl-help.PNG)
             
-     >scan on 
-     to scan surrounded devices classic and bluetooth low energy devices can be found by this tool 
+   [bluetooth]#scan on 
+   to scan surrounded devices classic and bluetooth low energy devices can be found by this tool 
+   ![](photos/bluetoothctl-help-scan-on.PNG)
             
-     ![](photos/bluetoothctl-help-scan-on.PNG)
-            
-     >scan off
-     to stop the scanner
-     
-     ![](photos/bluetoothctl-help-scan-on-off.PNG)
+   [bluetooth]#scan off
+   to stop the scanner
+   ![](photos/bluetoothctl-help-scan-on-off.PNG)
       
-     >info <Target MAC ID>
-      get the device info 
-      ![](photos/info gatheirng.PNG)
+   [bluetooth]#info <Target MAC ID>
+   get the device info 
+   ![](photos/infromationgathering.png)
