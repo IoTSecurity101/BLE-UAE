@@ -18,7 +18,7 @@ if the adapter is not up run the command " #hciconfig hcix up"
 
 it is preinstalled in linux machines or you can install with [sudo apt-get install bluez]
 
-1. bluetoothctl
+
     
      #bluetoothctl 
      
@@ -27,11 +27,15 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
       ![](photos/bluetoothctl-help.PNG)
             
      >scan on 
+     to scan surrounded devices classic and bluetooth low energy devices can be found by this tool 
             
      ![](photos/bluetoothctl-help-scan-on.PNG)
             
      >scan off
+     to stop the scanner
      
      ![](photos/bluetoothctl-help-scan-on-off.PNG)
-            
-3. 
+      
+     >info <Target MAC ID>
+      get the device info 
+      1[](photos/info gatheirng.PNG)
