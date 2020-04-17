@@ -25,13 +25,19 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    ![](photos/bluetoothctl-help.PNG)
             
    [bluetooth]#scan on 
-   to scan surrounded devices classic and bluetooth low energy devices can be found by this tool 
+   or 
+   [bluetooth]#bluetoothctl discoverable on
+   - to scan surrounded devices classic and bluetooth low energy devices can be found by this tool 
    ![](photos/bluetoothctl-help-scan-on.PNG)
             
    [bluetooth]#scan off
-   to stop the scanner
+   - to stop the scanner
    ![](photos/bluetoothctl-help-scan-on-off.PNG)
       
    [bluetooth]#info <Target MAC ID>
-   get the device info 
+   - get the device info 
    ![](photos/infromationgathering.png)
+   
+   [bluetooth]# connect 00:12:34:56:78:90
+   - to pair with device
+   ![]()
