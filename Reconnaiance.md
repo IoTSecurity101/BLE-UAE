@@ -38,4 +38,4 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
       
      >info <Target MAC ID>
       get the device info 
-      1[](photos/info gatheirng.PNG)
+      ![](photos/info gatheirng.PNG)
