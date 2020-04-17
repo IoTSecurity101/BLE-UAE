@@ -18,13 +18,11 @@ if the adapter is not up run the command " #hciconfig hcix up"
 
 it is preinstalled in linux machines or you can install with [sudo apt-get install bluez]
 
-      bluetoothctl
+   bluetoothctl
     
      #bluetoothctl 
-     
-      > help
-      
-      ![](photos/bluetoothctl-help.PNG)
+     > help
+     ![](photos/bluetoothctl-help.PNG)
             
      >scan on 
      to scan surrounded devices classic and bluetooth low energy devices can be found by this tool 
