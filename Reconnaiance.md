@@ -22,22 +22,34 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
     
    #bluetoothctl 
    [bluetooth]#help
+   
    ![](photos/bluetoothctl-help.PNG)
             
    [bluetooth]#scan on 
    or 
    [bluetooth]#bluetoothctl discoverable on
    - to scan surrounded devices classic and bluetooth low energy devices can be found by this tool 
+   
    ![](photos/bluetoothctl-help-scan-on.PNG)
             
    [bluetooth]#scan off
    - to stop the scanner
+   
    ![](photos/bluetoothctl-help-scan-on-off.PNG)
       
    [bluetooth]#info <Target MAC ID>
    - get the device info 
+   
    ![](photos/infromationgathering.png)
    
    [bluetooth]# connect 00:12:34:56:78:90
    - to pair with device
-   ![]()
+   
+   
+   
+#### Recon with "hcitool"
+#### Recon with "bettercap"
+#### Recon with "bluetoothctl"
+#### Recon with "NRF Connect APP - Android and Desktop"
+#### Recon with "Custom Scanners"
+
