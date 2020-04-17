@@ -18,7 +18,7 @@ if the adapter is not up run the command " #hciconfig hcix up"
 
 it is preinstalled in linux machines or you can install with [sudo apt-get install bluez]
 
-
+      bluetoothctl
     
      #bluetoothctl 
      
