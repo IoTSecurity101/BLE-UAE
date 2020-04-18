@@ -52,17 +52,19 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
    #sudo hcitool -h 
    - help command
-   ![](photos/hcitool-h.PNG)
+   ![](photos/hcitool -h.PNG)
    
    #sudo hcitool scan
    - scan for the non LE (Low - Energy) Devices
+   ![](photos/hcitoolscan.PNG)
    
    #sudo hcitool info <b addr>
    - to get the details of the remote devices
+   ![](photos/hcitoolinfo.PNG)
    
    #sudo hcitool cc 
    - to get connect with devices 
-   
+      
    #sudo hcitool lescan
    - scan for the LE Devices
    
