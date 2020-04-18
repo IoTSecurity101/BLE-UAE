@@ -14,7 +14,7 @@ check with whether blueotooth adapter is working
 
 if the adapter is not up run the command " #hciconfig hcix up"
 
-#### Recon with "bluetoothctl"
+#### 1. Recon with "bluetoothctl"
 
 it is preinstalled in linux machines or you can install with [sudo apt-get install bluez]
 
@@ -47,9 +47,8 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
    
    
-#### Recon with "hcitool"
-#### Recon with "bettercap"
-#### Recon with "bluetoothctl"
-#### Recon with "NRF Connect APP - Android and Desktop"
-#### Recon with "Custom Scanners"
+#### 2. Recon with "hcitool"
+#### 3. Recon with "bettercap"
+#### 4. Recon with "NRF Connect APP - Android and Desktop"
+#### 5. Recon with "Custom Scanners"
 
