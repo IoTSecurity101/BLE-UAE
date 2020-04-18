@@ -85,8 +85,24 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    - step 1: unzip the bettercap folder
    - step 2: move the bettercap binary file to /usr/bin location -- sudo mv bettercap /usr/bin
    - step 3: install dependencies "*sudo apt-get install libnetfilter-queue-dev*" and type bettercap in terminal 
+   #sudo bettercap 
+   >help
+   ![](photos/bettercap help.PNG)
    
-
+   >help ble.recon
+   ![](photos/bettedcaphelpmodule.PNG)
+   
+   >ble.recon on
+   ![](photos/bettercaprecon-on.PNG)
+   
+   >ble.recon off
+   ![](photos/bettercaprecon-off.PNG)
+   
+   >ble.show
+   ![](photos/bettercaplisting.PNG)
+   
+   >ble.enum <B Addr>
+   ![]()
 #### 4. Recon with "NRF Connect APP - Android and Desktop"
 #### 5. Recon with "Custom Scanners"
 
