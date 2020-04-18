@@ -19,6 +19,7 @@
 ### Understand little about the bluetooth technology
 
    - https://www.bluetooth.com/blog/a-developers-guide-to-bluetooth/
+   - https://github.com/V33RU/BLE-NullBlr
 
 ### Guide For Pentesting BLE
    
