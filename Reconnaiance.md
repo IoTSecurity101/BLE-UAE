@@ -48,7 +48,43 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
    
 #### 2. Recon with "hcitool"
+   - hcitool (hci-host controller interface) is one of the bluetooth configure tools to send the commands to bluetooth devices to discover and communcate
+   
+   #sudo hcitool -h 
+   - help command
+   ![](photos/hcitool-h.PNG)
+   
+   #sudo hcitool scan
+   - scan for the non LE (Low - Energy) Devices
+   
+   #sudo hcitool info <b addr>
+   - to get the details of the remote devices
+   
+   #sudo hcitool cc 
+   - to get connect with devices 
+   
+   #sudo hcitool lescan
+   - scan for the LE Devices
+   
+   #sudo hcitool leinfo <baddr>
+   - to find the device information about the LE device
+   
+   #sudo hcitool lecc  <baddr>
+   - to get connect with LE devices
+   
+   #sudo hcitool 
+   
+   
+   
+   
 #### 3. Recon with "bettercap"
+      
+   - betterCAP is one of the best tool developed in golang and works simply awesome. while you running the installation script it is automatically downloads the precompiled binaries 
+   step 1: unzip the bettercap folder
+   step 2: move the bettercap binary file to /usr/bin location -- sudo mv bettercap /usr/bin
+   step 3: type bettercap in terminal 
+   
+
 #### 4. Recon with "NRF Connect APP - Android and Desktop"
 #### 5. Recon with "Custom Scanners"
 
