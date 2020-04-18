@@ -16,6 +16,10 @@
 
 > Let me know if errors is taking while running script
 
+### Understand little about the bluetooth technology
+
+   - https://www.bluetooth.com/blog/a-developers-guide-to-bluetooth/
+
 ### Guide For Pentesting BLE
    
    - [Installation](installation.md)
