@@ -87,22 +87,30 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    - step 3: install dependencies "*sudo apt-get install libnetfilter-queue-dev*" and type bettercap in terminal 
    #sudo bettercap 
    >help
+   - checking tool options and usage guide
    ![](photos/bettercap help.PNG)
    
    >help ble.recon
+   - module way checking for help
    ![](photos/bettedcaphelpmodule.PNG)
    
    >ble.recon on
+   - scanning for bluetooth devices
    ![](photos/bettercaprecon-on.PNG)
    
    >ble.recon off
+   - for stopping the scan 
    ![](photos/bettercaprecon-off.PNG)
    
    >ble.show
+   - to show discovered devices
    ![](photos/bettercaplisting.PNG)
    
    >ble.enum <B Addr>
+   - enumeratins services and characteristics of devices
    ![]()
+   
+   
 #### 4. Recon with "NRF Connect APP - Android and Desktop"
 #### 5. Recon with "Custom Scanners"
 
