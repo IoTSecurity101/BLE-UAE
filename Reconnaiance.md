@@ -82,7 +82,7 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    - betterCAP is one of the best tool developed in golang and works simply awesome. while you running the installation script it is automatically downloads the precompiled binaries 
    - step 1: unzip the bettercap folder
    - step 2: move the bettercap binary file to /usr/bin location -- sudo mv bettercap /usr/bin
-   - step 3: type bettercap in terminal 
+   - step 3: install dependencies "*sudo apt-get install libnetfilter-queue-dev*" and type bettercap in terminal 
    
 
 #### 4. Recon with "NRF Connect APP - Android and Desktop"
