@@ -86,27 +86,27 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    - step 2: move the bettercap binary file to /usr/bin location -- sudo mv bettercap /usr/bin
    - step 3: install dependencies "*sudo apt-get install libnetfilter-queue-dev*" and type bettercap in terminal 
    #sudo bettercap 
-   >help
+   #help
    - checking tool options and usage guide
    ![](photos/bettercap help.PNG)
    
-   >help ble.recon
+   #help ble.recon
    - module way checking for help
    ![](photos/bettedcaphelpmodule.PNG)
    
-   >ble.recon on
+   #ble.recon on
    - scanning for bluetooth devices
    ![](photos/bettercaprecon-on.PNG)
    
-   >ble.recon off
+   #ble.recon off
    - for stopping the scan 
    ![](photos/bettercaprecon-off.PNG)
    
-   >ble.show
+   #ble.show
    - to show discovered devices
    ![](photos/bettercaplisting.PNG)
    
-   >ble.enum <B Addr>
+   #ble.enum <B Addr>
    - enumeratins services and characteristics of devices
    ![]()
    
