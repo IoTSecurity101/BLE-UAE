@@ -1,18 +1,43 @@
 
-### Requirements
-- [Debian](https://www.debian.org/) or [Ubuntu OS](https://ubuntu.com/download/desktop)
+### OWASP SEASIDES BLE-UAE(Understanding and Exploitation)
+BLE – Bluetooth low energy is current trend in communication for the IoT devices, it will help to control the device and sharing, receiving the information there are two differences in the Bluetooth
+Classic bluetooth
+Smart Bluetooth called as BLE
 
-- [CSR 4.0](https://www.amazon.in/GENERIC-Ultra-Mini-Bluetooth-Dongle-Adapter/dp/B0117H7GZ6/ref=asc_df_B0117H7GZ6/?tag=googleshopdes-21&linkCode=df0&hvadid=396984700257&hvpos=&hvnetw=g&hvrand=17789616132988851752&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075378&hvtargid=pla-343685677347&psc=1&ext_vrnc=hi)
+### DELIVERABLES
+Training Slides
+Video tutorials
 
-- [ESP32](https://www.amazon.in/ESP32-Development-Board-CP2102-Bluetooth/dp/B074ZPWVVQ/ref=asc_df_B074ZPWVVQ/?tag=googleshopdes-21&linkCode=df0&hvadid=396989245566&hvpos=&hvnetw=g&hvrand=5201736676378865268&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9075378&hvtargid=pla-837119951691&psc=1&ext_vrnc=hi)
+### REQUIREMENTS
+Laptop with minimum 100 GB Hard Disk Space & 8 GB RAM with administrative privileges
+Latest Virtual-box installed
+Rooted device or Emulator ex. genymotion
 
-- 8GB RAM and 120GB Hard disk Space - Virtualbox Version 6.0 +
+### Topics will be covered
+IoT intro
+Understanding Micro controllers in IoT platform
+ESP32
+Arduio Software
+C++ and Arduino programming
+Flash the devices
+Understanding the IoT Device communication
+Classic and Smart Bluetooth
+Develop the code and flashing
+Communicating with smart phone
+Exploitation
+Installation of software and hardware
+Tools for exploiting BLE
+Sniffing BLE packets using ubertooth/BLE sniffer
+Analyzing BLE packets on the Wireshark
+Cracking Encryption
+Latest BLE Attack
 
-- [Arduino](https://www.arduino.cc/en/Main/Software)
+### What you will get from this session :
+We will learn how to develop and flash the code with arduino to microcontroller to get BLE signals and understanding what are the insecurity and security in communication and will start working on the different attack vectors to compromise the target BLE Devices.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-website : https://v33ru.github.io/BLE-UAE/
+### website : https://v33ru.github.io/BLE-UAE/
 
 
 
