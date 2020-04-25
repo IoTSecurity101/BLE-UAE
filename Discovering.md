@@ -1,4 +1,4 @@
-### Reconnaiance on bluetooth and bluetooth low energy devices
+### Discovering bluetooth and bluetooth low energy devices
 
 Connect a external adapter CSR4.0 Dongle if you are using virtualbox or Host Machine internal bluetooth works but if you have adapter more better
    
@@ -14,7 +14,7 @@ check with whether blueotooth adapter is working
 
 if the adapter is not up run the command " #hciconfig hcix up"
 
-#### 1. Recon with "bluetoothctl"
+#### 1. find with "bluetoothctl"
 
 it is preinstalled in linux machines or you can install with [sudo apt-get install bluez]
 
@@ -47,7 +47,7 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
    
    
-#### 2. Recon with "hcitool"
+#### 2. find with "hcitool"
    - hcitool (hci-host controller interface) is one of the bluetooth configure tools to send the commands to bluetooth devices to discover and communcate
    
    #sudo hcitool -h 
@@ -79,7 +79,7 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
    
    
-#### 3. Recon with "bettercap"
+#### 3. find with "bettercap"
       
    - betterCAP is one of the best tool developed in golang and works simply awesome. while you running the installation script it is automatically downloads the precompiled binaries 
    - step 1: unzip the bettercap folder
@@ -125,6 +125,6 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    ![]()
    
    
-#### 4. Recon with "NRF Connect APP - Android and Desktop"
-#### 5. Recon with "Custom Scanners"
+#### 4. Find with "NRF Connect APP - Android and Desktop"
+#### 5. Find with "Custom Scanners"
 
