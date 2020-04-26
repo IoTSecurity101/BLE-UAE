@@ -17,4 +17,4 @@
 
 
 
-#### [Recon Bluetooth Devices](Reconnaiance.md)
+#### [Discover and Recon the Bluetooth Devices](Discovering.md)
