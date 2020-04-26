@@ -24,6 +24,6 @@
 
    
 #### [Installation](installation.md)
-#### [Recon Bluetooth Devices](Reconnaiance.md)
+#### [Recon Bluetooth Devices](Discovering.md)
    
    
