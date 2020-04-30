@@ -25,6 +25,6 @@
 ## Tables of Content   
  1. [Installation](installation.md)
  2. [Recon Bluetooth Devices](Discovering.md)
-     *  [scanNrecon with hcitool](scanNrecon/hcitool.html)
+     *  [scanNrecon with hcitool](scanNrecon/hcitool.md)
    
    
