@@ -3,15 +3,15 @@
    
    #sudo hcitool -h 
    - help command
-   ![](https://github.com/V33RU/BLE-UAE/blob/master/photos/hcitoolscan.PNG)
+   ![](https://github.com/V33RU/BLE-UAE/blob/master/photos/hcitool%20-h.PNG)
    
    #sudo hcitool scan
    - scan for the non LE (Low - Energy) Devices
-   ![](photos/hcitoolscan.PNG)
+   ![](https://github.com/V33RU/BLE-UAE/blob/master/photos/hcitoolscan.PNG)
    
    #sudo hcitool info <b addr>
    - to get the details of the remote devices
-   ![](photos/hcitoolinfo.PNG)
+   ![](https://github.com/V33RU/BLE-UAE/blob/master/photos/hcitoolinfo.PNG)
    
    #sudo hcitool cc 
    - to get connect with devices 
