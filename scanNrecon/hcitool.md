@@ -1,4 +1,4 @@
-#### 2. find with "hcitool"
+#### 2. ScanNRecon with "hcitool"
    - hcitool (hci-host controller interface) is one of the bluetooth configure tools to send the commands to bluetooth devices to discover and communcate
    
    #sudo hcitool -h 
