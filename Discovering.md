@@ -55,6 +55,4 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
 
    
    
-#### 4. Find with "NRF Connect APP - Android and Desktop"
-#### 5. Find with "Custom Scanners"
 
