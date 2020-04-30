@@ -25,5 +25,6 @@
    
 #### [Installation](installation.md)
 #### [Recon Bluetooth Devices](Discovering.md)
+   ### [2.scanNrecon/hcitool.md](scanNrecon/hcitool.md)
    
    
