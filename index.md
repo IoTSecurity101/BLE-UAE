@@ -23,8 +23,8 @@
    - https://github.com/V33RU/BLE-NullBlr
 
 ## Tables of Content   
- 1.[Installation](installation.md)
- 2.[Recon Bluetooth Devices](Discovering.md)
-    * [scanNrecon with hcitool](scanNrecon/hcitool.html)
+ 1. [Installation](installation.md)
+ 2. [Recon Bluetooth Devices](Discovering.md)
+     *  [scanNrecon with hcitool](scanNrecon/hcitool.html)
    
    
