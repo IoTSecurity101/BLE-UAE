@@ -3,7 +3,7 @@
    
    #sudo hcitool -h 
    - help command
-   ![](photos/hcitool -h.PNG)
+   ![](master/photos/hcitoolscan.PNG)
    
    #sudo hcitool scan
    - scan for the non LE (Low - Energy) Devices
