@@ -49,7 +49,7 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
 
    
-   
+   [ScanNRecon with "hcitool"](https://github.com/V33RU/BLE-UAE/blob/master/scanNrecon/hcitool.md)
    
    
 #### 3. find with "bettercap"
