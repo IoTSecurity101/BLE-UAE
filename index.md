@@ -19,8 +19,8 @@
 
 ### Understand little about the bluetooth technology
 
-   - https://www.bluetooth.com/blog/a-developers-guide-to-bluetooth/
-   - https://github.com/V33RU/BLE-NullBlr
+   - <https://www.bluetooth.com/blog/a-developers-guide-to-bluetooth/>
+   - <https://github.com/V33RU/BLE-NullBlr>
 
 ## Tables of Content   
  1. [Installation](installation.md)
