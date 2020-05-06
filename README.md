@@ -37,7 +37,6 @@ We will learn how to develop and flash the code with arduino to microcontroller 
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-### website : https://v33ru.github.io/BLE-UAE/
-
+### Link : https://iotsecurity101.org/BLE-UAE/
 
 
