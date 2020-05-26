@@ -22,10 +22,11 @@ sudo sudo apt-get install bluetooth bluez libbluetooth-dev libudev-dev bluez-bts
 sudo sudo apt-get update && sudo apt-get upgrade
 sudo apt-get install apktool
 
-wget https://github.com/V33RU/OWASPSeasides--BLE-UAE/raw/master/nodejs_8.10.0_dfsg-2ubuntu0.4_amd64.deb
+wget https://github.com/IoTSecurity101/BLE-UAE/raw/master/nodejs_8.10.0_dfsg-2ubuntu0.4_amd64.deb
 wget https://www.dropbox.com/s/p3vbboddyc52y5g/ble-exploits.zip
 
 sudo dpkg -i nodejs_8.10.0_dfsg-2ubuntu0.4_amd64.deb
+sudo apt --fix-broken install
 sudo apt-get install npm
 sudo apt --fix-broken install
 
