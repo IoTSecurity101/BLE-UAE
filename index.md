@@ -13,7 +13,8 @@
 - [Arduino](https://www.arduino.cc/en/Main/Software)
 
 ### Tools Installation Process
-`Already we written dependencies and Tools installation script & Just Download and run it in linux machine` [download](ble_uae.sh)
+`Already we written dependencies and Tools installation script & Just Download and run it in linux machine` 
+- [Download from here](ble_uae.sh)
 
 > Let me know if errors is taking while running script
 
