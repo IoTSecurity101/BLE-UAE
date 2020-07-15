@@ -51,7 +51,8 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
 ********************************************************************************************************************************
 
-   ### 2. ScanNRecon with "hcitool"
+### 2. ScanNRecon with "hcitool"
+
    - hcitool (hci-host controller interface) is one of the bluetooth configure tools to send the commands to bluetooth devices to discover and communcate
    
    #sudo hcitool -h 
@@ -81,7 +82,4 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    #sudo hcitool 
 
 ******************************************************************************************************************************
-
-   
-   
 
