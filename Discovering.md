@@ -14,7 +14,9 @@ check with whether blueotooth adapter is working
 
 if the adapter is not up run the command " #hciconfig hcix up"
 
-#### 1. find with "bluetoothctl"
+***********************************************************************************************************************
+
+### 1. find with "bluetoothctl"
 
 it is preinstalled in linux machines or you can install with [sudo apt-get install bluez]
 
@@ -47,10 +49,9 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
    
    
+********************************************************************************************************************************
 
-   
-   [ScanNRecon with "hcitool"]
-   #### 2. ScanNRecon with "hcitool"
+   ### 2. ScanNRecon with "hcitool"
    - hcitool (hci-host controller interface) is one of the bluetooth configure tools to send the commands to bluetooth devices to discover and communcate
    
    #sudo hcitool -h 
@@ -79,7 +80,7 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
    #sudo hcitool 
 
-   
+******************************************************************************************************************************
 
    
    
