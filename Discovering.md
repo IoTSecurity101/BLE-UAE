@@ -16,7 +16,7 @@ if the adapter is not up run the command " #hciconfig hcix up"
 
 ***********************************************************************************************************************
 
-### 1. find with "bluetoothctl"
+### 1. ScanNRecon with "bluetoothctl"
 
 it is preinstalled in linux machines or you can install with [sudo apt-get install bluez]
 
@@ -51,38 +51,45 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
 ********************************************************************************************************************************
 
-### 2. ScanNRecon with "hcitool"
-
+#### 2. ScanNRecon with "hcitool"
    - hcitool (hci-host controller interface) is one of the bluetooth configure tools to send the commands to bluetooth devices to discover and communcate
    
-   #sudo hcitool -h 
-   - help command
-   ![](https://github.com/V33RU/BLE-UAE/blob/master/photos/hcitool%20-h.PNG)
+   #### For non-le devices
    
-   #sudo hcitool scan
+  > sudo hcitool -h 
+   -help command
+   
+   ![](/photos/hcitool%20-h.PNG)
+   
+  > sudo hcitool scan
    - scan for the non LE (Low - Energy) Devices
-   ![](https://github.com/V33RU/BLE-UAE/blob/master/photos/hcitoolscan.PNG)
    
-   #sudo hcitool info <b addr>
+   ![](/photos/hcitoolscan.PNG)
+   
+  > sudo hcitool info <b addr>
    - to get the details of the remote devices
-   ![](https://github.com/V33RU/BLE-UAE/blob/master/photos/hcitoolinfo.PNG)
    
-   #sudo hcitool cc 
+   ![](/photos/hcitoolinfo.PNG)
+   
+  > sudo hcitool cc 
    - to get connect with devices 
+   
+   
+   #### For LE devices
       
-   #sudo hcitool lescan
+  > sudo hcitool lescan
    - scan for the LE Devices
    
-   #sudo hcitool leinfo <baddr>
+  > sudo hcitool leinfo <baddr>
    - to find the device information about the LE device
    
-   #sudo hcitool lecc  <baddr>
+  > sudo hcitool lecc  <baddr>
    - to get connect with LE devices
    
    #sudo hcitool 
 
 ******************************************************************************************************************************
-### 3. find with "bettercap"
+### 3. ScanNRecon with "bettercap"
       
    - betterCAP is one of the best tool developed in golang and works simply awesome. while you running the installation script it is automatically downloads the precompiled binaries 
    - step 1: unzip the bettercap folder
