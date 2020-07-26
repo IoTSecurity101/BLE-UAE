@@ -1,6 +1,6 @@
 ### [README](https://github.com/V33RU/BLE-UAE/blob/master/README.md)
 
-![](/photos/Capture.PNG)
+
 ### Requirements
 - [Debian](https://www.debian.org/) or [Ubuntu OS](https://ubuntu.com/download/desktop) or [IoT-PT](https://github.com/IoT-PTv/IoT-PT)
 
@@ -17,6 +17,7 @@
 - [Download from here](ble_uae.sh)
 
 > Let me know if errors is taking while running script
+![](/photos/Capture.PNG)
 
 ### Understand little about the bluetooth technology
 
