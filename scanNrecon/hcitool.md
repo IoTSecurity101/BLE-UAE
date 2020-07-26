@@ -15,6 +15,7 @@
    
   > sudo hcitool info <b addr>
    - to get the details of the remote devices
+   
    ![](/photos/hcitoolinfo.PNG)
    
   > sudo hcitool cc 
