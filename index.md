@@ -16,7 +16,7 @@
 `Already we written dependencies and Tools installation script & Just Download and run it in linux machine` 
 - [Download from here](ble_uae.sh)
 
-> Let me know if errors is taking while running script
+> Comment if any errors is taking while running script
 ![](/photos/Capture.PNG)
 
 ### Understand little about the bluetooth technology
