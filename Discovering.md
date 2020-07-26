@@ -102,7 +102,7 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
    - checking tool options and usage guide
    
-   ![](/photos/bettercaphelp.PNG)
+   ![](/photos/bettercaphelp.png)
    
    #help ble.recon
    
