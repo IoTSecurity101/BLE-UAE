@@ -59,7 +59,7 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
   > sudo hcitool -h 
    -help command
    
-   ![](/photos/hcitool%20-h.PNG)
+   ![](/photos/hcitool-h.PNG)
    
   > sudo hcitool scan
    - scan for the non LE (Low - Energy) Devices
@@ -102,7 +102,7 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
    - checking tool options and usage guide
    
-   ![](/photos/bettercap help.PNG)
+   ![](/photos/bettercaphelp.PNG)
    
    #help ble.recon
    
