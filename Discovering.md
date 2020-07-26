@@ -59,7 +59,7 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
   > sudo hcitool -h 
    -help command
    
-   ![](/photos/hcitool-h.PNG)
+   ![](/photos/hcitool-h.png)
    
   > sudo hcitool scan
    - scan for the non LE (Low - Energy) Devices
