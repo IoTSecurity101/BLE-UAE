@@ -128,7 +128,7 @@ it is preinstalled in linux machines or you can install with [sudo apt-get insta
    
    ![](photos/bettercaplisting.PNG)
    
-   #ble.enum <B Addr>
+   #ble.enum "<B Addr>"
    
    - enumeratins services and characteristics of devices
    
